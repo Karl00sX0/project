@@ -121,6 +121,28 @@ h6 {
   font-size: 2rem;
   border-radius: 50%;
 }
+.instaappBtn {
+  position: fixed;
+  bottom: 80px;
+  left: 20px;
+  background: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);
+  width: 50px;
+  height: 50px;
+  z-index: 999;
+  border-radius: 50%;
+}
+.instaappBtn a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.instaappBtn a i {
+  color: white;
+  font-size: 2rem;
+  border-radius: 50%;
+}
 
 /* Sections Header
 --------------------------------*/
